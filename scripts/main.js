@@ -1,4 +1,4 @@
-const baseURL = "https://caramblague.onrender.com";
+const baseURL = "https://caramblague.onrender.com/api";
 
 const jokeContainer = document.getElementById("jokeContainer");
 const jokeQuestion = document.getElementById("jokeQuestion");
